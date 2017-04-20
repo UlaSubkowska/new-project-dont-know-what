@@ -1,0 +1,100 @@
+>Guess, which peak is the highest on the Earth:
+-a - Mount Blanc
+-b - Elbrus
+*c - Mount Everest
+-d - Aconcagua
+'sorry, but you are wrong :P
+'Elbrus is just 5 642 m high, it's still 3 206 m less then the highest mountain
+'Yes, you are right Mount Everest is the highest mountain
+'unfortunatelly NO
+
+>Now we are sure that the highest mountain on the Earth is Everest, but do you know how high is it?
+-a - 7 492 meters 
+*b - 8 848 meters 
+-c - 9 024 meters 
+-d - 8 611 meters
+'NO this is elevation of Noshaq, which is the seconde highest independent peak of the Hindu Kush'
+'YES, you are right,what more the first official ascent of Everest was made by Norgay and Hillary in 1953'
+'are you stupid or something? :P','sorry but... 
+'NO, this is the elevation of K2 second hightest peak
+
+>What about mountains on another planets? Where is the highest mountain in our solar system?
+-a - Earth
+-b - Venus
+-c - Jupiter 
+*d - Mars
+'sorry, but you are wrong', 
+'NO the highest peak on Venus has ONLY 10 700 meters ;)
+'NO Jupiter is a gas giant :P
+'YES, the name of peak is Olympus Mons and it's above 22 000 meters high
+
+>Let's come back to the Earth :) Do you know name of the highest unclimbed peak?
+*a - Ganghar Puensum (Dzongkha)
+-b - Mana
+-c - Gyala Peri
+-d - Nanda Devi
+'YES - Dzongkha is the highest unclimbed mountain and it's located in Bhutan (elevation - 7 570 meters)
+'NO - Mana was climbed in 1937 by F. Smythe, the peak is located in India
+'NO - Gyala was ascented in 1986 by japanese expedition (peak located in China)
+'NO - Devi was climbed in 1936, the peak is located in India
+
+>How high is the volcano Mauna Kea, if measured from oceanic base?
+*a - around 10 000 meters
+-b - less than 8 500 meters 
+-c - more than 20 000 meters
+-d - around 15 000 meters
+'YES - is located on the island of Hawaii, the elevation is 4 207 m, but measured from oceanic base is higher than Everest :)'
+'NO
+'NO way :P
+'sorry you are WRONG
+
+>Where is located Aconcagua?
+-a - India
+-b - Peru
+*c - Argentina
+-d - China
+'NO
+'NO but you are close
+'YES - and it is the highest peak outside Asia
+'sorry but.... NO
+
+>How many eight-thousanders are still unclimed during winter?
+-a - 15
+*b - 1
+-c - 9
+-d - 2
+'are you stupid or something?
+'YES - only one
+'NO - definitely too much
+'you are WRONG
+
+>Which eight-thousander is unclimed during winter?
+-a - Gaszerbrum II
+-b - Broad Peak
+-c - Nanga Parbat
+*d - K2
+'no
+'no, no, no
+'NO
+'YES
+
+>Do you like my mountain test ?
+*a - yes
+-b - it was boring as fuck
+-c - no
+-d - lame
+'i am so happy that you like it :D
+':P - wrong answer, you can not finish test
+':P - wrong answer, you can not finish test
+':P - wrong answer, you can not finish test
+
+>Who inspired us to learn Python? 
+-a - my mum
+-b - reality
+-c - Maniutek :D
+*d - Kasia
+'no my mum doesn't know what is computer :P
+'it was not the main reason
+'only in 50%
+'of course Kasia is the best ;)
+
